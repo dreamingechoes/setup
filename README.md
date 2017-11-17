@@ -1,10 +1,16 @@
 # Setup
 
+**WIP**
+
 My personal development setup :computer:
+
+# Table of Contents
 
 ## macOS development setup
 
 ![desktop](/images/macos-desktop.png)
+
+### Software
 
 ### Terminal
 
