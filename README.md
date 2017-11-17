@@ -2,6 +2,14 @@
 
 My personal development setup :computer:
 
+## macOS development setup
+
+[desktop](.images/macos-desktop.png)
+
+### Terminal
+
+[desktop](.images/macos-terminal.png)
+
 ----------------------------
 
 This repository was created by [dreamingechoes](https://github.com/dreamingechoes).
