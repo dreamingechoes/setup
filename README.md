@@ -4,11 +4,11 @@ My personal development setup :computer:
 
 ## macOS development setup
 
-[desktop](.images/macos-desktop.png)
+![desktop](.images/macos-desktop.png)
 
 ### Terminal
 
-[desktop](.images/macos-terminal.png)
+![desktop](.images/macos-terminal.png)
 
 ----------------------------
 
