@@ -16,6 +16,16 @@ My personal development setup :computer:
 
 ![desktop](/images/macos-terminal.png)
 
+## Linux development setup
+
+![desktop](/images/linux-desktop.png)
+
+### Software
+
+### Terminal
+
+![desktop](/images/linux-terminal.png)
+
 ----------------------------
 
 This repository was created by [dreamingechoes](https://github.com/dreamingechoes).
