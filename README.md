@@ -1,32 +1,39 @@
 # Setup
 
-**WIP**
+:computer: My personal development setup.
 
-My personal development setup :computer:
+## Table of Contents
 
-# Table of Contents
+- [Software](#software)
+  * [General](#general)
+  * [macOS Specific](#macos-specific)
+  * [Linux Specific](#general)
+- [Hardware](#hardware)
+  * [Computers](#computers)
+  * [Storage](#storage)
+  * [Monitor](#monitor)
+  * [Accesories](#accesories)
 
-## macOS development setup
+## Software
 
-![desktop](/images/macos-desktop.png)
+### General
 
-### Software
+### macOS Specific
 
-### Terminal
+### Linux Specific
 
-![desktop](/images/macos-terminal.png)
+## Hardware
 
-## Linux development setup
+### Computers
 
-![desktop](/images/linux-desktop.png)
+### Storage
 
-### Software
+### Monitor
 
-### Terminal
+### Accesories
 
-![desktop](/images/linux-terminal.png)
 
 ----------------------------
 
-This repository was created by [dreamingechoes](https://github.com/dreamingechoes).
+This project was developed by [dreamingechoes](https://github.com/dreamingechoes).
 It adheres to its [code of conduct](https://github.com/dreamingechoes/base/blob/master/files/CODE_OF_CONDUCT.md), and uses an equivalent [license](https://github.com/dreamingechoes/base/blob/master/files/LICENSE).
