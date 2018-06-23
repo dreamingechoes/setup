@@ -12,6 +12,7 @@
   * [Computers](#computers)
   * [Storage](#storage)
   * [Accesories](#accesories)
+  * [Other Tech](#other-tech)
 
 ## Software
 
@@ -72,7 +73,7 @@ This is where I do all my apple stuff.
 * **Monitor raiser**: Satechi ST-F1SMBK.
 * **Mousepad**: TRIXES XXL.
 
-### Other tech
+### Other Tech
 
 * Acer TravelMate TMB115-M.
 * Raspberry Pi: 1xModelB, 1x2 ModelB, 1x3 ModelB+, 1xModel Zero.
