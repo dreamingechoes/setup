@@ -47,7 +47,7 @@ This is my main machine. I do all my work on **Ubuntu**, and I play some games a
 
 #### :computer: [Macbook Air 13" 2015](https://support.apple.com/kb/sp714/)
 
-This is where I do all my apple stuff.
+This is where I do all my apple stuff, and use on a daily basis for surfing the web and some light tasks.
 
 | Component  | Value                                |
 |-----------:|:-------------------------------------|
