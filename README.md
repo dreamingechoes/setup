@@ -19,11 +19,19 @@
 ### General
 
 * [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.
+* [BitWarden](https://bitwarden.com/) - The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
+* [Boostnote](https://boostnote.io/) - Note-taking for developers.
 * [Docker](https://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
+* [Gitbook Editor](https://legacy.gitbook.com/editor) - Simple writing from your desktop.
+* [Insomnia](https://insomnia.rest/) - Powerful HTTP and GraphQL tool belt.
+* [Poedit](https://poedit.net/) - The fastest and most convenient way to translate apps & sites with gettext.
 * [Slack](https://slack.com/) - Cloud-based set of proprietary team collaboration tools and services.
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
 ### macOS Specific
+
+- [Dash](https://kapeli.com/dash) - An API Documentation browser and code snippet manager.
+- [MacDown](https://macdown.uranusjr.com/) - The open source Markdown editor for macOS.
 
 ### Linux Specific
 
