@@ -24,6 +24,7 @@
 * [Docker](https://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [Gitbook Editor](https://legacy.gitbook.com/editor) - Simple writing from your desktop.
 * [Insomnia](https://insomnia.rest/) - Powerful HTTP and GraphQL tool belt.
+* [Oh my zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing Zsh configurations.
 * [Poedit](https://poedit.net/) - The fastest and most convenient way to translate apps & sites with gettext.
 * [Slack](https://slack.com/) - Cloud-based set of proprietary team collaboration tools and services.
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
