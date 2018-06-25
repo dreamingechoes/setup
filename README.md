@@ -27,12 +27,15 @@
 * [Oh my zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing Zsh configurations.
 * [Poedit](https://poedit.net/) - The fastest and most convenient way to translate apps & sites with gettext.
 * [Slack](https://slack.com/) - Cloud-based set of proprietary team collaboration tools and services.
+* [Tig](https://jonas.github.io/tig/) - Text-mode interface for Git.
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
 ### macOS Specific
 
 - [Dash](https://kapeli.com/dash) - An API Documentation browser and code snippet manager.
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [MacDown](https://macdown.uranusjr.com/) - The open source Markdown editor for macOS.
+- [Spectacle](https://www.spectacleapp.com/) - Window control with simple and customizable keyboard shortcuts.
 
 ### Linux Specific
 
