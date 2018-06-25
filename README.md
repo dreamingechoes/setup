@@ -28,6 +28,7 @@
 * [Poedit](https://poedit.net/) - The fastest and most convenient way to translate apps & sites with gettext.
 * [Slack](https://slack.com/) - Cloud-based set of proprietary team collaboration tools and services.
 * [Tig](https://jonas.github.io/tig/) - Text-mode interface for Git.
+* [VirtualBox](https://www.virtualbox.org/) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
 ### macOS Specific
