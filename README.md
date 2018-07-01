@@ -101,7 +101,7 @@ This is where I do all my apple stuff, and use on a daily basis for surfing the 
 
 * Acer TravelMate TMB115-M.
 * Raspberry Pi: 1xModelB, 1x2 ModelB, 1x3 ModelB+, 1xModel Zero.
-* Bunch of Arduino boards and periferals.
+* Bunch of Arduino boards and peripherals.
 
 ----------------------------
 
