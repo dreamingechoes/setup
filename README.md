@@ -78,7 +78,7 @@ This is where I do all my apple stuff, and use on a daily basis for surfing the 
 |-----------:|:-------------------------------------------------|
 | **CPU**    | AMD Turion™ II Neo                               |
 | **RAM**    | 2GB PC3-10600E DDR3 UB ECC                       |
-| **HDD**    | 1 x 2TB 3.5" SATA HDD (with Ubuntu 18.10 server) |
+| **HDD**    | 1 x 2TB 3.5" SATA HDD (with Ubuntu 18.04 server) |
 
 ### Storage
 
