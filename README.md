@@ -10,6 +10,7 @@
   * [Linux Specific](#general)
 - [Hardware](#hardware)
   * [Computers](#computers)
+  * [Server](#server)
   * [Storage](#storage)
   * [Accesories](#accesories)
   * [Other Tech](#other-tech)
@@ -68,6 +69,16 @@ This is where I do all my apple stuff, and use on a daily basis for surfing the 
 | **GPU**    | Intel HD Graphics 6000               |
 | **RAM**    | 8GB LPDDR3 1600 MHz                  |
 | **SSD**    | 128GB PCIe SSD (with macOS v10.13.4) |
+
+### Server
+
+#### :globe_with_meridians: [HP MicroServer N40L](http://www8.hp.com/nz/en/pdf/HP_ProLiant_MicroServer_tcm_194_1127013.pdf)
+
+| Component  | Value                                            |
+|-----------:|:-------------------------------------------------|
+| **CPU**    | AMD Turion™ II Neo                               |
+| **RAM**    | 2GB PC3-10600E DDR3 UB ECC                       |
+| **HDD**    | 1 x 2TB 3.5" SATA HDD (with Ubuntu 18.10 server) |
 
 ### Storage
 
