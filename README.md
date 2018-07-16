@@ -56,7 +56,7 @@ This is my main machine. I do all my work on **Ubuntu**, and I play some games a
 | **CPU**    | Intel Core i7-8550U                      |
 | **GPU**    | NVIDIA GeForce ® MX150 · 2 GB GDDR5      |
 | **RAM**    | 16GB DDR4 2400MHz Double Channel         |
-| **SSD #1** | 256GB PCIe SSD (with Ubuntu 18.10)       |
+| **SSD #1** | 256GB PCIe SSD (with Ubuntu 18.04)       |
 | **SSD #2** | 256GB M.2 SATA SSD (with Windows 10 Pro) |
 
 #### :computer: [Macbook Air 13" 2015](https://support.apple.com/kb/sp714/)
