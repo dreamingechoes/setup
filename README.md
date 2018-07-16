@@ -99,6 +99,8 @@ This is where I do all my apple stuff, and use on a daily basis for surfing the 
 
 ### Other Tech
 
+* [Wrist support splints](https://actesso.co.uk/product/advanced-black-wrist-support-splint).
+* [PocketC.H.I.P.](https://getchip.com/pages/pocketchip).
 * Acer TravelMate TMB115-M.
 * Raspberry Pi: 1xModelB, 1x2 ModelB, 1x3 ModelB+, 1xModel Zero.
 * Bunch of Arduino boards and peripherals.
