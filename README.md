@@ -13,7 +13,7 @@
   * [Server](#server)
   * [Storage](#storage)
   * [Accesories](#accesories)
-  * [Other Tech](#other-tech)
+  * [Other Tech And Accesories](#other-tech-and-accesories)
 
 ## Software
 
@@ -97,7 +97,7 @@ This is where I do all my apple stuff, and use on a daily basis for surfing the 
 * **Monitor raiser**: Satechi ST-F1SMBK.
 * **Mousepad**: TRIXES XXL.
 
-### Other Tech
+### Other Tech And Accesories
 
 * [Wrist support splints](https://actesso.co.uk/product/advanced-black-wrist-support-splint).
 * [PocketC.H.I.P.](https://getchip.com/pages/pocketchip).
