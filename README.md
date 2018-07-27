@@ -28,18 +28,23 @@
 * [Oh my zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing Zsh configurations.
 * [Poedit](https://poedit.net/) - The fastest and most convenient way to translate apps & sites with gettext.
 * [Slack](https://slack.com/) - Cloud-based set of proprietary team collaboration tools and services.
+* [TeamSQL](https://teamsql.io/) - Cross-platform SQL Client.
 * [Tig](https://jonas.github.io/tig/) - Text-mode interface for Git.
 * [VirtualBox](https://www.virtualbox.org/) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
 ### macOS Specific
 
-- [Dash](https://kapeli.com/dash) - An API Documentation browser and code snippet manager.
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
-- [MacDown](https://macdown.uranusjr.com/) - The open source Markdown editor for macOS.
-- [Spectacle](https://www.spectacleapp.com/) - Window control with simple and customizable keyboard shortcuts.
+* [Dash](https://kapeli.com/dash) - An API Documentation browser and code snippet manager.
+* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
+* [MacDown](https://macdown.uranusjr.com/) - The open source Markdown editor for macOS.
+* [Spectacle](https://www.spectacleapp.com/) - Window control with simple and customizable keyboard shortcuts.
 
 ### Linux Specific
+
+* [Git Cola](https://git-cola.github.io/) - Sleek and powerful graphical user interface for Git.
+* [Remarkable](https://remarkableapp.github.io/) - Markdown editor.
+* [Zeal](https://zealdocs.org/) - Offline documentation browser for software developers.
 
 ## Hardware
 
