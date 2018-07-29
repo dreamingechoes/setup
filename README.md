@@ -67,7 +67,7 @@ This is my main machine. I do all my work on **Ubuntu**, and I play some games a
 
 #### :computer: [Macbook Air 13" 2015](https://support.apple.com/kb/sp714/)
 
-This is where I do all my apple stuff, and use on a daily basis for surfing the web and some light tasks.
+This is where I do all my macOS related stuff, and I use on a daily basis for surfing the web and some light tasks.
 
 | Component  | Value                                   |
 |-----------:|:----------------------------------------|
@@ -90,25 +90,24 @@ This is where I do all my apple stuff, and use on a daily basis for surfing the 
 
 * **NAS**: [QNAP TS-431P](https://www.qnap.com/en/product/ts-431p) with 4 x 2TB Western Digital Caviar SATA 3 HDD.
 * **Portable HDD**: [Seagate Backup Plus Slim 2TB](https://www.seagate.com/consumer/backup/backup-plus/).
-* **External HDD**: Hitachi Touro Desk 2TB.
+* **External HDD**: [Hitachi Touro Desk 2TB](http://www.touropro.com/en/product/touro-desk-pro/index.html).
 
 ### Accesories
 
 * **Monitor**: [Samsung U28E590D](https://www.samsung.com/es/monitors/uhd-ue590/LU28E590DSEN/).
-* **Main keyboard**: [Leopold FC660M PD](http://global.leopold.co.kr/product.php?pcode=fc660mpd) with Cherry MX blue switches.
+* **Main keyboard**: [Leopold FC660M PD](http://global.leopold.co.kr/product.php?pcode=fc660mpd) with [Cherry MX blue switches](https://www.cherrymx.de/en/products/mx-blue.html).
 * **Secondary keyboard**: [Logitech K380](https://www.logitech.com/en-us/product/multi-device-keyboard-k380).
 * **Main mouse**: [Logitech MX Master 2S Flow](https://www.logitech.com/en-us/product/mx-master-2s-flow).
-* **Secondary mouse**: Logitech Performance MX.
-* **Secondary mouse**: [Kensington K72337EU](https://www.kensington.com/us/us/4493/k72337us/orbit-trackball-with-scroll-ring).
-* **Monitor raiser**: Satechi ST-F1SMBK.
+* **Secondary mouses**: [Logitech Performance MX](http://support.logitech.com/en_us/product/performance-mouse-mx), [Kensington K72337EU](https://www.kensington.com/us/us/4493/k72337us/orbit-trackball-with-scroll-ring).
+* **Monitor stand**: [Satechi F1 Smart monitor stand](https://satechi.net/products/satechi-f1-smart-monitor-stand?variant=27136039177).
 * **Mousepad**: TRIXES XXL.
 
 ### Other Tech And Accesories
 
-* [Wrist support splints](https://actesso.co.uk/product/advanced-black-wrist-support-splint).
+* [Wrist Support Splints](https://actesso.co.uk/product/advanced-black-wrist-support-splint).
 * [Pocket C.H.I.P.](https://getchip.com/pages/pocketchip).
-* Acer TravelMate TMB115-M.
-* Raspberry Pi: 1xModelB, 1x2 ModelB, 1x3 ModelB+, 1xModel Zero.
+* [Acer TravelMate B](https://www.acer.com/ac/es/ES/content/professional-series/travelmateb).
+* Raspberry Pi: 1x[ModelB+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/), 1x[2 ModelB](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), 1x[3 ModelB+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/), 1x[Model Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/).
 * Bunch of Arduino boards, sensors and peripherals.
 
 ----------------------------
