@@ -35,6 +35,7 @@
 
 ### macOS Specific
 
+* [Alfred](https://www.alfredapp.com/) - Productivity application for Mac OS X.
 * [Dash](https://kapeli.com/dash) - An API Documentation browser and code snippet manager.
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 * [MacDown](https://macdown.uranusjr.com/) - The open source Markdown editor for macOS.
@@ -68,12 +69,12 @@ This is my main machine. I do all my work on **Ubuntu**, and I play some games a
 
 This is where I do all my apple stuff, and use on a daily basis for surfing the web and some light tasks.
 
-| Component  | Value                                |
-|-----------:|:-------------------------------------|
-| **CPU**    | Intel Core i5-5250U                  |
-| **GPU**    | Intel HD Graphics 6000               |
-| **RAM**    | 8GB LPDDR3 1600 MHz                  |
-| **SSD**    | 128GB PCIe SSD (with macOS v10.13.4) |
+| Component  | Value                                   |
+|-----------:|:----------------------------------------|
+| **CPU**    | Intel Core i5-5250U                     |
+| **GPU**    | Intel HD Graphics 6000                  |
+| **RAM**    | 8GB LPDDR3 1600 MHz                     |
+| **SSD**    | 128GB PCIe SSD (with macOS High Sierra) |
 
 ### Server
 
@@ -105,10 +106,10 @@ This is where I do all my apple stuff, and use on a daily basis for surfing the 
 ### Other Tech And Accesories
 
 * [Wrist support splints](https://actesso.co.uk/product/advanced-black-wrist-support-splint).
-* [PocketC.H.I.P.](https://getchip.com/pages/pocketchip).
+* [Pocket C.H.I.P.](https://getchip.com/pages/pocketchip).
 * Acer TravelMate TMB115-M.
 * Raspberry Pi: 1xModelB, 1x2 ModelB, 1x3 ModelB+, 1xModel Zero.
-* Bunch of Arduino boards and peripherals.
+* Bunch of Arduino boards, sensors and peripherals.
 
 ----------------------------
 
