@@ -107,7 +107,7 @@ This is where I do all my **macOS** related stuff, and I use on a daily basis fo
 * [Wrist Support Splints](https://actesso.co.uk/product/advanced-black-wrist-support-splint).
 * [Pocket C.H.I.P.](https://getchip.com/pages/pocketchip).
 * [Acer TravelMate B](https://www.acer.com/ac/es/ES/content/professional-series/travelmateb).
-* Raspberry Pi: 1x[ModelB+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/), 1x[2 ModelB](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), 1x[3 ModelB+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/), 1x[Model Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/).
+* Raspberry Pi: 1x[Pi Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/), 1x[Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), 1x[Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/), 1x[Pi Model Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/).
 * Bunch of Arduino boards, sensors and peripherals.
 
 ----------------------------
