@@ -104,6 +104,7 @@ This is where I do all my **macOS** related stuff, and I use on a daily basis fo
 
 ### Other Tech And Accesories
 
+* [FIDO Key U2F NFC USB Feitian](https://www.ftsafe.com/products/FIDO/NFC).
 * [Wrist Support Splints](https://actesso.co.uk/product/advanced-black-wrist-support-splint).
 * [Pocket C.H.I.P.](https://getchip.com/pages/pocketchip).
 * [Acer TravelMate B](https://www.acer.com/ac/es/ES/content/professional-series/travelmateb).
