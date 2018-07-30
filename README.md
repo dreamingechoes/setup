@@ -84,11 +84,11 @@ This is where I do all my **macOS** related stuff, and I use on a daily basis fo
 |-----------:|:-------------------------------------------------|
 | **CPU**    | AMD Turion™ II Neo                               |
 | **RAM**    | 2GB PC3-10600E DDR3 UB ECC                       |
-| **HDD**    | 1 x 2TB 3.5" SATA HDD (with Ubuntu 18.04 server) |
+| **HDD**    | 4 x 2TB 3.5" SATA HDD (with Ubuntu 18.04 server) |
 
 ### Storage
 
-* **NAS**: [QNAP TS-431P](https://www.qnap.com/en/product/ts-431p) with 4 x 2TB Western Digital Caviar SATA 3 HDD.
+* **NAS**: [QNAP TS-431P](https://www.qnap.com/en/product/ts-431p) with 3 x [3TB Western Digital Red SATA HDD](https://www.wdc.com/products/internal-storage/wd-red.html).
 * **Portable HDD**: [Seagate Backup Plus Slim 2TB](https://www.seagate.com/consumer/backup/backup-plus/).
 * **External HDD**: [Hitachi Touro Desk 2TB](http://www.touropro.com/en/product/touro-desk-pro/index.html).
 
