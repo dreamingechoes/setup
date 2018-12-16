@@ -53,7 +53,7 @@
 
 ### Computer
 
-My main machine. It's a custom PC build some years ago. I still use it to work, doing all my work on **Ubuntu**, and playing some games and edit some photos and videos on **Windows**.
+My main machine. It's a custom PC built some years ago. I still use it to work, doing all my work on **Ubuntu**, and playing some games and edit some photos and videos on **Windows**.
 
 | Component  | Value                                                        |
 |-----------:|:-------------------------------------------------------------|
