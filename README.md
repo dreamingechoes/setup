@@ -119,8 +119,8 @@ This is the laptop where I do all my **macOS** related stuff, and I use on a dai
 
 Besides my work as a software engineer, I organize an annual conference about software development called [FabadaConf](https://github.com/fabadaconf), and the [Elixir Asturias](https://github.com/elixirasturias) monthly meetup group. Due to the fact that I record all the talks and activities of both events, I have some equipment to do it so I can edit and upload the final result to the internet.
 
-* **Video camera**: [Sony PJ410 Handycam](https://www.sony.com/en-sa/electronics/handycam-camcorders/hdr-pj410)
-* **Video capture**: [Avermedia Game Capture HD II](https://www.avermedia.com/gaming/product/game_capture/game_capture_hd_ii)
+* **Video camera**: [Sony PJ410 Handycam](https://www.sony.com/en-sa/electronics/handycam-camcorders/hdr-pj410).
+* **Video capture**: [Avermedia Game Capture HD II](https://www.avermedia.com/gaming/product/game_capture/game_capture_hd_ii).
 * **Tripod**: Amazon Basics video camera tripod.
 * **Backpack**: Beaspire SLR backpack.
 * Bunch of HDMI/VGA cables, video adapters, storage cards...
